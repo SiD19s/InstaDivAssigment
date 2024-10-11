@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107554357257",
+    "project_id": "instadivassigment",
+    "storage_bucket": "instadivassigment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107554357257:android:f916bcacafae98fc1af8d8",
+        "android_client_info": {
+          "package_name": "com.example.instadivassigment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHcSd7-pzULG-LuE2oOmX72-drwI6Gpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
